@@ -16,4 +16,4 @@ This Detection & Monitoring Project aimed to mimic an enterprise environment for
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-thebadge&logo=Splunk&logoColor=white"/> <img src="https://img.shields.io/badge/-Kali Linux-557C94?&style=for-thebadge&logo=Kali Linux&logoColor=white"/>  <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-thebadge&logo=Windows&logoColor=0078D6"/>  <img src="https://img.shields.io/badge/-Active Directory-000000?style=for-thebadge&logo=Windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/-Windows Server 2022-000000?style=for-thebadge&logo=Windows&logoColor=0078D6" />
 #
-## LAB NETWORK DESIGN & TOPOLOGY
+## LAB NETWORK DESIGN 
