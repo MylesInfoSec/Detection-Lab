@@ -1,7 +1,7 @@
 # Detection & Monitoring with Active Directory Lab
 
 ## Objective 
-The Detection Lab project aimed to mimic an enterprise environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system (Splunk), and generating test telemetry to mimic real-world attack scenarios using Kali Linux to perform a brute force attack agianst users in a Active Directory Domain and Atomic Red team to Emulate adversary tactics and techniques based on real-world observations from the MITRE ATT&CK framework database. 
+This Detection & Monitoring Project aimed to mimic an enterprise environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system (Splunk), and generating test telemetry to mimic real-world attack scenarios using Kali Linux to perform a brute force attack agianst users in a Domain and Atomic Red team to Emulate adversary tactics and techniques based on real-world observations from the MITRE ATT&CK framework database. 
 
 ### Skills Learned
 
