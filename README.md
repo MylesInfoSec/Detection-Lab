@@ -17,6 +17,6 @@ This Detection & Monitoring Project aimed to mimic an enterprise environment for
   <img src="https://img.shields.io/badge/-Windows Server 2022-000000?style=for-thebadge&logo=Windows&logoColor=0078D6" />
    <img src="https://img.shields.io/badge/-Atomic Red Team -FF0000?style=for-thebadge&logo=Windows&logoColor=0078D6" />
 #
-## LAB NETWORK DESIGN 
+## NETWORK DESIGN 
 ![Screenshot 2024-07-30 194901](https://github.com/user-attachments/assets/093aa7d4-32e5-4665-8a0b-fda7ad7c7626)
 
