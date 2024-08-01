@@ -15,7 +15,7 @@ This Detection & Monitoring Project aimed to mimic an enterprise environment for
 ### Tools & Software Used
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-thebadge&logo=Splunk&logoColor=white"/> <img src="https://img.shields.io/badge/-Kali Linux-557C94?&style=for-thebadge&logo=Kali Linux&logoColor=white"/>  <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-thebadge&logo=Windows&logoColor=0078D6"/>  <img src="https://img.shields.io/badge/-Active Directory-000000?style=for-thebadge&logo=Windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/-Windows Server 2022-000000?style=for-thebadge&logo=Windows&logoColor=0078D6" />
-   <img src="https://img.shields.io/badge/-Atomic Red Team -FF0000?style=for-thebadge&logo=Windows&logoColor=0078D6" />
+   <img src="https://img.shields.io/badge/-Atomic Red Team -FF0000?style=for-thebadge&logo=Windows&logoColor=0078D6" /> <img src="https://img.shields.io/badge/-VirtualBox -557C94?style=for-thebadge&logo=Windows&logoColor=0078D6" /> 
 #
 ## Network Architecture
 ![Screenshot 2024-07-31 104454](https://github.com/user-attachments/assets/5ce527ee-09d9-48dc-a52a-df312965b2e1)
