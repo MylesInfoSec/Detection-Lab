@@ -18,6 +18,7 @@ This Detection & Monitoring Project aimed to mimic an enterprise environment for
    <img src="https://img.shields.io/badge/-Atomic Red Team -FF0000?style=for-thebadge&logo=Windows&logoColor=0078D6" /> <img src="https://img.shields.io/badge/-VirtualBox -557C94?style=for-thebadge&logo=Windows&logoColor=0078D6" /> 
 #
 ## Network Architecture
-![Screenshot 2024-07-31 104454](https://github.com/user-attachments/assets/5ce527ee-09d9-48dc-a52a-df312965b2e1)
+![Screenshot 2024-08-01 205933](https://github.com/user-attachments/assets/289d937f-f263-4343-88c1-b4f79e68ea94)
+
 
 
